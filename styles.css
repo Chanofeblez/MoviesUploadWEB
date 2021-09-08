@@ -1,14 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
-
 body {
     background-color: #14161E;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
+h1,h2,h3,h4,h5 {
     font-weight: 200;
     color: white;
 }
@@ -17,7 +11,7 @@ p {
     color: white;
 }
 
-hr {
+hr{
     color: white;
 }
 
@@ -27,10 +21,8 @@ hr {
 }
 
 .btn-outline-success {
-    border-color: #bd4c5f !important;
-    ;
-    color: #bd4c5f !important;
-    ;
+    border-color: #bd4c5f !important;;
+    color: #bd4c5f !important;;
 }
 
 .btn-outline-success:hover {
@@ -39,5 +31,5 @@ hr {
 }
 
 .block {
-    display: block;
+    display:block;
 }
